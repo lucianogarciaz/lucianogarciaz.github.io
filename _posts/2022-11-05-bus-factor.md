@@ -2,6 +2,7 @@
 layout: post
 title:  "Bus Factor"
 author: luciano
+featured: true
 categories: [ Software Development, XP, Software Economics ]
 image: assets/images/bus-factor.jpg
 ---

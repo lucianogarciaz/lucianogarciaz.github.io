@@ -19,6 +19,4 @@ In my day to day, I enjoy:
 </ul>
 
 <p>
-
-[//]: # (<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>)
 </div>

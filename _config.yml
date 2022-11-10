@@ -4,7 +4,7 @@ title: "Thoughts"
 description: "Hi! I'm Luciano, and here I post all my thoughts about software, product, teams and companies"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://lucianogarciaz.github.io'
+baseurl: /
 google_analytics: 'G-GHVS340C6Z'
 disqus: 'demowebsite'
 disclaimer: 'My opinion may change over time and most posts will not have a blog post format'

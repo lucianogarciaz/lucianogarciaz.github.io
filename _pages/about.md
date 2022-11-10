@@ -5,7 +5,6 @@ permalink: /about
 comments: false
 ---
 
-<div class="row justify-content-between">
 
 <p>
 I'm a Software Engineer with expertise in all aspects of the software development life cycle, including requirements analysis, design, development and production support.
@@ -19,4 +18,3 @@ In my day to day, I enjoy:
 </ul>
 
 <p>
-</div>

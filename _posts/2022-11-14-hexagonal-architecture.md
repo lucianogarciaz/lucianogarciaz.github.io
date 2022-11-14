@@ -4,7 +4,7 @@ title:  "Hexagonal architecture"
 author: luciano
 featured: true
 categories: [ Software Development, XP, Software Economics, Design, Software Architecture ]
-image: assets/images/software-economics.jpg
+image: assets/images/hexagonal-architecture.png
 ---
 Hexagonal architecture (also called **ports & adapters**) is a type of **clean architecture** that has been around for a while but is gaining popularity in the age of microservices. 
 The idea is to design your software so that the different components are **loosely coupled** and **can be easily swapped out or replaced**. This makes your software more **maintainable** and **scalable in the long run**.

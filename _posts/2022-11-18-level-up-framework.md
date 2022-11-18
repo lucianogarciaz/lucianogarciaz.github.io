@@ -30,7 +30,7 @@ Before we start with this simple framework, it’s important that you honestly t
 
 Let's start analyzing:
 
-## How I get there?
+## How do I get there?
 In order to move to the next level, we need to surround ourselves with people who fulfill **3 types of roles**.<br>
 **All of them are equally important** and sometimes one person can have more than one role. Let’s review one by one.
 

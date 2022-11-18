@@ -5,6 +5,7 @@ author: luciano
 featured: true
 categories: [ Software Development, XP, Software Economics ]
 image: assets/images/software-economics.jpg
+description: "What is software economics and how to apply it"
 ---
 
 If your business is like most, you’re always looking for ways to improve efficiency and cut costs. One area you may not have considered is your software investment. Just like any other business asset, your software needs to be managed properly to get the most out of it.

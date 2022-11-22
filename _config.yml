@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-138582507-2'
 disqus: 'demowebsite'
-disclaimer: 'My opinion may change over time and most posts will not have a blog post format'
+disclaimer: 'My opinion may change over time and most posts will not have a blog post format. Also, English is not my mother tongue :)'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/

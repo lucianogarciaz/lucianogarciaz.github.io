@@ -30,7 +30,7 @@ Before we start with this simple framework, it’s important that you honestly t
 
 Let's start analyzing:
 
-## How do I get there?
+## How do you get there?
 In order to move to the next level, we need to surround ourselves with people who fulfill **3 types of roles**.<br>
 **All of them are equally important** and sometimes one person can have more than one role. Let’s review one by one.
 
@@ -45,8 +45,8 @@ It is critical to specify **what you are looking for** and at **what "level" you
 Since they already know you're looking for a chance to advance, when they find one, they'll give you the opportunity.<br>
 
 ### Coach
-The coach plays an important role because they **will ask you questions to help you reflect on how you are feeling and how you think you are doing it**.<br>
-They can also assist you in **developing a strategy and staying on track**.
+The coach plays an important role because they **will ask you questions to help you reflect on how you are feeling and what do you think about your performance**.<br>
+They can also assist you in **developing a strategy and staying on track**.<br>
 A coach can be e.g: your manager. It is critical to meet with this person on a weekly basis.
 
 ## A bit of my personal experience
@@ -55,7 +55,8 @@ And it made me realise, among other things, that:
 * Be aware of the **unknown unknowns** (the things we don't know we don't know)
 * Tips and shortcuts in learning
 * The **courage to learn skills that you thought were far from or impossible**, to have **the confidence to develop them**
-* **Learn to have my own criteria** and to open my mind (it always depends)
+* **Learn to have my own criteria** and to open my mind.
+* Everything **"it always depends"**
 
 As a backend engineer, I joined a growing company with a lot of projects ahead of us but only a few people. <br>
 The engineering team, which was divided into several teams, had a lot of talent. 

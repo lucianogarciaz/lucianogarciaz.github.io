@@ -6,8 +6,6 @@ featured: false
 categories: [ Productivity, Learning ]
 ---
 
-# **Tips para mejorar el foco**
-
 El foco depende de una sola cosa: **eliminar cualquier estímulo que obligue al cerebro a cambiar de contexto**. Cada interrupción, por mínima que sea, te saca de “marcha alta” y te obliga a reiniciar el proceso atencional.
 
 1. Apagar Slack, mail y redes → **cortar todas las notificaciones**.

@@ -5,7 +5,6 @@ author: luciano
 featured: false
 categories: [ Productivity, Burnout ]
 ---
-# Pseudo Productivity & Burnout
 
 En el trabajo industrial era sencillo medir productividad: más horas de trabajo producían más unidades. La relación entre esfuerzo y resultado era directa y lineal. Se podían hacer experimentos, comparar ratios y optimizar procesos de manera objetiva. “Más granos cosechados por hectárea” era un número real y útil.
 

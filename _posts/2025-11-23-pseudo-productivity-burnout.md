@@ -109,4 +109,4 @@ La pseudo-productividad desaparece cuando:
 - el impacto se vuelve visible,
 - y los equipos tienen claro qué significa “avanzar”.
 
-Fuuente: https://www.youtube.com/watch?v=p4ZfkezDTXQ&t=4288s
+Fuente: https://www.youtube.com/watch?v=p4ZfkezDTXQ&t=4288s

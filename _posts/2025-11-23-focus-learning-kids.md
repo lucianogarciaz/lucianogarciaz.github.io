@@ -56,3 +56,7 @@ Los niños son especialmente vulnerables porque su cerebro aún no tiene control
 Las plataformas gratuitas están optimizadas para retenerlos, no para protegerlos.
 
 Lo más sano es **posponer el smartphone** hasta después de la pubertad y, aun así, introducirlo con reglas claras: sin redes al principio, horarios definidos, y uso supervisado.
+
+
+
+Fuente: https://www.youtube.com/watch?v=p4ZfkezDTXQ&t=4288s
